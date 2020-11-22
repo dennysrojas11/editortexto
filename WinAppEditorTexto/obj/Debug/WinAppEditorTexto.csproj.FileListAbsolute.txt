@@ -1,0 +1,10 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe.config
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\bin\Debug\WinAppEditorTexto.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.FormEditorTexto.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.Properties.Resources.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.GenerateResource.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppEditorTexto\WinAppEditorTexto\obj\Debug\WinAppEditorTexto.pdb
